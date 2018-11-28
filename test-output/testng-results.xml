@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-09-24T17:12:18Z" name="Default suite" finished-at="2018-09-24T17:12:46Z" duration-ms="28313">
+    <groups>
+    </groups>
+    <test started-at="2018-09-24T17:12:18Z" name="Default test" finished-at="2018-09-24T17:12:46Z" duration-ms="28313">
+      <class name="com.full.workflow.WebConsole">
+        <test-method signature="launchBrowser()[pri:0, instance:com.full.workflow.WebConsole@2f465398]" started-at="2018-09-24T22:42:18Z" name="launchBrowser" finished-at="2018-09-24T22:42:46Z" duration-ms="28272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+      </class> <!-- com.full.workflow.WebConsole -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
